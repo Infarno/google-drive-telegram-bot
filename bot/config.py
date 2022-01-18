@@ -7,8 +7,8 @@ class config:
 1424506688 1366022247 1936005224" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/+VkmMf5dy1sxlYzI9"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "543816776373-j2lpo5scaonklabhjg6gk0v39dklfa2r.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
